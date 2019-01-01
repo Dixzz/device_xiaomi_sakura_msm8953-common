@@ -319,4 +319,9 @@
 
     <!-- Should the pinner service pin the Camera application? -->
     <bool name="config_pinnerCameraApp">true</bool>
+
+    <!-- Internal default to navigation bar value -->
+    <bool name="config_defaultToNavigationBar">true</bool>
+    <bool name="config_showNavigationBar">true</bool>
+
 </resources>
