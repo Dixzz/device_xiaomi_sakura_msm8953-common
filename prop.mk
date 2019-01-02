@@ -271,3 +271,6 @@ wifi.interface=wlan0
 # zram disk
 PRODUCT_PROPERTY_OVERRIDES += \
 ro.vendor.qti.config.zram=true
+
+#Enable HAL3
+persist.camera.HAL3.enabled=1
